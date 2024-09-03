@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Eren Bozarık
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Reinforcement Learning and Recommender Systems
-- 💞️ I’m looking to collaborate on Recommender Systems
+- 👀 I’m interested in AI & Data Science
+- 🌱 I’m currently learning Computer Vision and GenAI-LLM systems.
+- 💞️ I’m looking to collaborate on GenAI and Computer Vision projects.
 - 📫 How to reach me erenbozarik (at) gmail (dot) com
 
 <!---
